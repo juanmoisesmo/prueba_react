@@ -1,0 +1,2 @@
+export const MOSTRAR_CHECKIN = 'MOSTRAR_CHECKIN';
+export const EDITAR_CHECKIN = 'EDITAR_CHECKIN';
